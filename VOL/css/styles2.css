@@ -155,7 +155,7 @@ p.sectionHeadingIntroText {
   
 }
 
-.btn {
+.btn2 {
   text-transform: uppercase;
   background-color: #40A541;
   border-color: #40A541;
@@ -172,7 +172,7 @@ p.sectionHeadingIntroText {
 
 }
 
-.btn:focus, .btn:hover {
+.btn2:focus, .btn2:hover {
   background-color: #318432;
   border-color: #318432;
   
